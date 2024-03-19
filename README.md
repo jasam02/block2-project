@@ -1,1 +1,2 @@
 # block2-project
+This repository is made to share a code that I made a little while ago. It is a car payment calculator that is really simple and can be taken and used to make a more complex design. It currently allows you to enter the car price, how long you want to pay it off, and your state for tax and fees. It will give you the total loan amount, the monthly cost, and the total interest you will pay.
